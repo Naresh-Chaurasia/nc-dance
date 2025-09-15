@@ -33,7 +33,7 @@
 * MP-005 | 11. Add style in your bachata
 
 ---
-* MP-008
+* ✅ MP-008 | 14. Romantic Bachata
 ** Kentucky
 ** Wrap and Move Around
 ** Free Spins
