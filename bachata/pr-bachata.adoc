@@ -1,0 +1,19 @@
+= PR Bachata
+:toc: right
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+
+== Basics
+
+* [ ] Forward Wave
+* [ ] Reverse Wave
+* [ ] Side Wave
+* [ ] Side Reverse Wave
+* [ ] Diagonal Step
+* [ ] Drill: Right, Down, Shimmy and come Up
+* [ ] Up(Start with Going Right), Down, Up (HITx3), Pull and Release with wave
+* [ ] Joint Side Hip Roll
+
+
