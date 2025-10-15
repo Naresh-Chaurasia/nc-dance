@@ -13,13 +13,13 @@
 |Ok |Needs Practise
 
 |-
-|[.line-through]#Boleo (*Easy*)#
-
-|-
 |🔥 Mambo (*Awesome*)
 
 |✅ Full Flair
 |🔥 Tap and Slide (*Space*)
+
+|-
+|👎 Boleo (*Easy*)
 
 
 |===
