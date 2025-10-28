@@ -69,8 +69,8 @@
 ** Step Up
 ** Cord Beat (variation 1 & 2)
 ** Full Flair (Stylish Hit)
-** Half Right, Half Left
-** Bolo
+** Half Right, Half Left (#*Natural*#)
+** [.line-through]#Boleo#
 
 ---
 
@@ -79,9 +79,9 @@
 * Advance Shine Routine
 ** Prep Turn
 ** Grapevine
-** Isolation
-** 1 tap, 2 tap
-** Sweep Sweep
+** Isolation (#*Natural*#)
+** 1 tap, 2 tap (#*Natural*#)
+** Sweep Sweep / Sweep Sweep Reverse
 ** 2 Turns
 ** Leg Shimmy
 

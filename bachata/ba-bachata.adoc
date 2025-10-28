@@ -1,4 +1,4 @@
-= BA Bachata
+= Bachata
 :toc: right
 :toclevels: 5
 :sectnums:
@@ -26,3 +26,5 @@
 ** Under Arm
 ** Over Arm
 ** In Place
+
+== Allan
